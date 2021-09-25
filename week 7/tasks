@@ -1,8 +1,5 @@
 work this week: 
-1. leetcode:finished two
-2. regressions: tried linear regression, decision tree, boosting, bagging, random forest
-3. TO DO: 
-   a. finish leetcode; 
-   b. more understanding of regression models, especially why some modes not working well
-   c. compare results from different encoding and scaling
-   d. try to use cross-validation
+1. leetcode:finished
+2. regressions: linear regression, decision tree, boosting, bagging, random forest
+3. classification: applied simple practices with "fruit" dataset
+4. new dataset for PROJECT
